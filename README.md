@@ -1,2 +1,1 @@
-# practice
-задание js
+https://crabflow.github.io/practice/
